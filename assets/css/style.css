@@ -1,0 +1,101 @@
+/*
+ * Custom CSS for Vet Hospital System
+ * Theme: Light Green
+ */
+
+/* --- General Styles & Fonts --- */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa; /* Light grey background for contrast */
+}
+
+/* --- Theme Colors --- */
+:root {
+    --primary-green: #4CAF50; /* A classic, friendly green */
+    --secondary-green: #81C784;
+    --light-green-bg: #E8F5E9;
+    --dark-text: #333;
+}
+
+/* --- Navigation Bar --- */
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.navbar-brand {
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: var(--primary-green) !important;
+}
+
+.nav-link {
+    font-weight: 400;
+}
+
+.nav-link.active {
+    font-weight: 600;
+    color: var(--primary-green) !important;
+}
+
+/* --- Buttons --- */
+.btn-success {
+    background-color: var(--primary-green);
+    border-color: var(--primary-green);
+}
+
+.btn-success:hover {
+    background-color: #45a049;
+    border-color: #45a049;
+}
+
+.btn-outline-success {
+    color: var(--primary-green);
+    border-color: var(--primary-green);
+}
+
+.btn-outline-success:hover {
+    background-color: var(--primary-green);
+    color: #fff;
+}
+
+/* --- Hero Section --- */
+.hero-section {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://placehold.co/1920x1080/81C784/FFFFFF?text=Your+Happy+Pet+Here') no-repeat center center;
+    background-size: cover;
+    padding: 100px 0;
+}
+
+.hero-section h1 {
+    font-weight: 700;
+}
+
+/* --- Services Section --- */
+.services-section {
+    background-color: #fff;
+}
+
+.services-section h2 {
+    color: var(--dark-text);
+    font-weight: 600;
+}
+
+.services-section .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.services-section .card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+}
+
+.services-section .card-title {
+    color: var(--primary-green);
+    font-weight: 600;
+}
+
+/* --- Footer --- */
+footer p {
+    margin: 0;
+}

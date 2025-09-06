@@ -1,0 +1,1026 @@
+case_id,species,age_years,breed,is_neutered,weight_kg,is_vaccinated,lethargy_level,appetite_status,drinking_status,is_vomiting,is_diarrhea,has_blood_in_stool,is_straining_to_urinate,urinating_more_frequently,has_blood_in_urine,is_coughing,is_sneezing,has_nasal_discharge,is_itching_scratching,has_hair_loss,is_lame_limping,diagnosis
+1001,Cat,6,Maine Coon,Yes,6,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1002,Dog,7,Golden Retriever,No,28,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1003,Cat,2,Bengal,No,5,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1004,Dog,7,Boxer,Yes,38,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1005,Cat,16,Maine Coon,Yes,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1006,Cat,15,Persian,No,7,Yes,Normal,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1007,Cat,11,Maine Coon,Yes,4,Yes,Mild,Decreased,Increased,No,No,No,Yes,Yes,No,No,No,No,No,No,No,CKD
+1008,Cat,2,Ragdoll,Yes,5,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1009,Cat,13,British Shorthair,No,6,Yes,Mild,Normal,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1010,Dog,9,Mixed Breed,No,13,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1011,Cat,3,Bengal,No,4,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1012,Cat,1,Siamese,Yes,5,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1013,Dog,14,German Shepherd,No,36,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1014,Dog,1,Shih Tzu,Yes,26,No,Normal,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1015,Cat,13,Maine Coon,Yes,4,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1016,Dog,1,Poodle,Yes,14,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1017,Cat,14,Domestic Longhair,No,7,No,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1018,Dog,14,Boxer,Yes,15,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1019,Dog,9,Golden Retriever,Yes,14,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1020,Dog,14,Rottweiler,Yes,38,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1021,Dog,3,German Shepherd,No,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Kennel Cough
+1022,Dog,11,Golden Retriever,Yes,32,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Kennel Cough
+1023,Cat,16,Domestic Longhair,Yes,4,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1024,Dog,2,Shih Tzu,Yes,34,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1025,Dog,11,Mixed Breed,No,15,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1026,Cat,12,Domestic Longhair,Yes,3,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1027,Cat,9,Bengal,Yes,3,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,No,No,No,No,Upper Respiratory Infection
+1028,Dog,12,Beagle,No,17,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1029,Dog,1,Beagle,No,11,No,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1030,Dog,2,Shih Tzu,Yes,32,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,Parvovirus
+1031,Dog,7,Golden Retriever,Yes,8,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1032,Dog,8,Rottweiler,No,30,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1033,Dog,1,Shih Tzu,Yes,15,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1034,Dog,7,Boxer,Yes,28,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1035,Cat,11,Sphynx,No,4,No,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Upper Respiratory Infection
+1036,Dog,18,Mixed Breed,Yes,25,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1037,Cat,6,Domestic Shorthair,No,7,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1038,Dog,2,Shih Tzu,No,34,No,Severe,None,Normal,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1039,Dog,9,Shih Tzu,Yes,27,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1040,Dog,14,French Bulldog,Yes,44,Yes,Normal,Normal,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1041,Dog,2,Rottweiler,No,22,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1042,Dog,7,Boxer,Yes,26,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1043,Cat,9,Maine Coon,Yes,4,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1044,Cat,3,Siamese,Yes,6,No,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1045,Dog,8,Boxer,Yes,32,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1046,Dog,11,Beagle,No,27,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1047,Cat,4,Sphynx,Yes,5,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1048,Dog,7,Shih Tzu,No,14,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1049,Dog,5,Mixed Breed,No,10,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1050,Dog,7,Poodle,Yes,42,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1051,Dog,1,Labrador Retriever,Yes,24,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1052,Cat,12,British Shorthair,Yes,4,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1053,Cat,10,Persian,Yes,3,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1054,Cat,15,Domestic Shorthair,Yes,6,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1055,Cat,11,Ragdoll,Yes,4,Yes,Mild,Decreased,Normal,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1056,Dog,1,Shih Tzu,Yes,36,No,Severe,None,Normal,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1057,Cat,1,Domestic Longhair,No,6,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1058,Dog,2,French Bulldog,No,41,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1059,Dog,12,Beagle,No,8,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hip Dysplasia
+1060,Cat,14,Maine Coon,No,7,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1061,Dog,6,German Shepherd,Yes,17,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1062,Dog,12,French Bulldog,Yes,17,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Arthritis
+1063,Cat,10,Persian,Yes,4,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1064,Dog,1,Golden Retriever,Yes,27,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1065,Dog,1,Shih Tzu,Yes,18,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Ear Infection
+1066,Dog,1,French Bulldog,Yes,23,No,Severe,None,Normal,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1067,Cat,2,Domestic Longhair,Yes,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Skin Allergies
+1068,Cat,9,Siamese,Yes,4,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1069,Dog,9,Labrador Retriever,Yes,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1070,Dog,1,Shih Tzu,Yes,10,No,Normal,Normal,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1071,Dog,1,Labrador Retriever,Yes,44,Yes,Severe,None,Normal,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,Parvovirus
+1072,Dog,2,Boxer,Yes,36,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1073,Dog,13,Mixed Breed,No,34,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1074,Dog,3,French Bulldog,Yes,34,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1075,Dog,7,Boxer,Yes,21,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1076,Dog,2,Beagle,Yes,14,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Ear Infection
+1077,Dog,9,Rottweiler,No,43,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1078,Cat,3,British Shorthair,No,3,No,Normal,Normal,Normal,No,No,No,No,Yes,Yes,No,No,No,No,No,No,FLUTD
+1079,Cat,9,Maine Coon,No,7,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1080,Cat,10,Persian,No,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1081,Dog,10,Golden Retriever,No,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hip Dysplasia
+1082,Dog,15,Rottweiler,No,22,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1083,Cat,1,Maine Coon,Yes,5,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1084,Cat,5,Domestic Shorthair,Yes,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1085,Cat,12,Domestic Longhair,No,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1086,Dog,1,French Bulldog,No,24,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1087,Cat,3,Domestic Shorthair,Yes,3,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1088,Cat,3,Domestic Longhair,No,6,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,Yes,No,No,No,Upper Respiratory Infection
+1089,Cat,10,Domestic Longhair,Yes,7,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1090,Cat,10,Ragdoll,No,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1091,Dog,9,Beagle,Yes,36,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1092,Dog,1,German Shepherd,Yes,22,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1093,Dog,6,French Bulldog,Yes,39,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1094,Cat,8,Sphynx,No,3,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1095,Dog,8,Boxer,No,35,No,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1096,Dog,6,Beagle,No,15,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1097,Dog,17,German Shepherd,No,41,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1098,Dog,1,French Bulldog,Yes,14,No,Severe,None,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Parvovirus
+1099,Cat,9,Bengal,No,4,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,Yes,No,No,CKD
+1100,Cat,13,Bengal,No,4,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1101,Dog,1,Shih Tzu,Yes,36,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Parvovirus
+1102,Cat,6,Domestic Shorthair,Yes,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1103,Cat,13,Bengal,No,5,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1104,Cat,3,Ragdoll,Yes,5,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,No,No,No,No,No,No,No,FLUTD
+1105,Cat,3,British Shorthair,Yes,4,Yes,Normal,Normal,Normal,No,No,No,No,Yes,Yes,No,No,No,No,No,No,FLUTD
+1106,Cat,18,Maine Coon,Yes,3,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1107,Dog,1,Shih Tzu,Yes,16,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1108,Dog,8,Golden Retriever,Yes,19,No,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1109,Dog,15,Shih Tzu,No,7,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1110,Dog,10,Rottweiler,No,42,No,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Kennel Cough
+1111,Dog,7,Beagle,No,11,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1112,Cat,5,Sphynx,Yes,7,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1113,Dog,1,Shih Tzu,Yes,9,No,Severe,None,Normal,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1114,Dog,12,Boxer,Yes,16,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1115,Dog,1,Rottweiler,No,8,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1116,Cat,15,Domestic Longhair,No,3,Yes,Mild,Decreased,Normal,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1117,Cat,4,British Shorthair,Yes,3,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1118,Cat,20,British Shorthair,Yes,3,No,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1119,Dog,1,Rottweiler,No,10,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1120,Cat,8,British Shorthair,No,4,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1121,Cat,9,Domestic Longhair,Yes,3,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1122,Cat,14,Sphynx,Yes,3,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1123,Cat,6,Maine Coon,No,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,Yes,No,Skin Allergies
+1124,Dog,7,Beagle,No,40,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1125,Dog,8,German Shepherd,Yes,9,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1126,Cat,5,British Shorthair,Yes,4,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,FLUTD
+1127,Cat,6,Domestic Shorthair,No,3,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,FLUTD
+1128,Cat,14,British Shorthair,Yes,3,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1129,Dog,11,Shih Tzu,Yes,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1130,Cat,4,Siamese,Yes,3,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,Yes,No,No,No,Upper Respiratory Infection
+1131,Dog,2,Golden Retriever,Yes,43,No,Severe,None,Normal,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Parvovirus
+1132,Dog,2,Beagle,Yes,17,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1133,Dog,16,Mixed Breed,No,13,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1134,Cat,19,Maine Coon,Yes,5,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1135,Dog,11,Labrador Retriever,No,13,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1136,Dog,15,Shih Tzu,Yes,9,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1137,Cat,12,Ragdoll,No,7,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,Yes,No,No,No,Upper Respiratory Infection
+1138,Dog,2,Rottweiler,Yes,24,No,Severe,None,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Parvovirus
+1139,Dog,8,Mixed Breed,No,5,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1140,Cat,5,British Shorthair,Yes,6,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1141,Cat,10,Domestic Longhair,Yes,5,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1142,Dog,16,Rottweiler,No,9,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1143,Dog,11,Shih Tzu,No,11,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1144,Dog,6,Boxer,No,37,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1145,Cat,10,Domestic Shorthair,Yes,4,No,Normal,Normal,Normal,No,No,No,No,Yes,Yes,No,No,No,No,No,No,FLUTD
+1146,Cat,9,Domestic Longhair,No,3,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Upper Respiratory Infection
+1147,Dog,10,Beagle,No,22,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1148,Dog,8,Boxer,Yes,11,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1149,Dog,4,Shih Tzu,No,17,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1150,Cat,6,Bengal,Yes,3,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1151,Dog,11,Mixed Breed,Yes,8,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1152,Dog,5,Mixed Breed,No,12,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,Kennel Cough
+1153,Dog,1,Labrador Retriever,No,24,No,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1154,Dog,18,Shih Tzu,No,41,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1155,Dog,14,Rottweiler,No,37,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1156,Cat,4,Domestic Longhair,Yes,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1157,Cat,1,Domestic Shorthair,Yes,3,No,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1158,Dog,7,French Bulldog,Yes,40,No,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1159,Dog,15,Boxer,No,18,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1160,Cat,15,Ragdoll,Yes,6,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1161,Dog,3,Mixed Breed,Yes,43,No,Normal,Normal,Normal,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1162,Dog,13,Labrador Retriever,No,28,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1163,Dog,9,Golden Retriever,No,10,No,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1164,Dog,13,Rottweiler,Yes,34,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1165,Cat,17,Sphynx,Yes,5,Yes,Mild,Decreased,Increased,No,No,No,Yes,Yes,No,No,No,No,No,No,No,CKD
+1166,Dog,13,Beagle,Yes,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1167,Dog,3,Shih Tzu,No,14,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1168,Cat,6,Sphynx,No,7,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1169,Cat,5,Sphynx,Yes,6,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1170,Dog,2,French Bulldog,No,5,No,Severe,None,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Parvovirus
+1171,Dog,14,Mixed Breed,Yes,40,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1172,Dog,4,Mixed Breed,Yes,40,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1173,Dog,13,Beagle,Yes,11,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1174,Dog,8,Labrador Retriever,Yes,32,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1175,Dog,2,Poodle,No,39,Yes,Normal,Normal,Normal,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1176,Dog,13,Golden Retriever,No,12,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1177,Dog,8,German Shepherd,Yes,7,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1178,Dog,3,Boxer,No,15,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1179,Dog,7,Mixed Breed,Yes,43,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1180,Dog,1,Mixed Breed,No,24,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1181,Cat,10,Siamese,Yes,3,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1182,Cat,1,British Shorthair,Yes,7,No,Normal,Normal,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1183,Dog,11,German Shepherd,Yes,9,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1184,Dog,8,Rottweiler,Yes,35,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1185,Dog,6,Boxer,Yes,27,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1186,Cat,1,Ragdoll,No,5,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1187,Dog,11,Mixed Breed,No,27,Yes,Normal,Normal,Normal,No,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1188,Cat,8,Bengal,Yes,7,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1189,Cat,16,Siamese,No,3,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1190,Dog,1,Boxer,Yes,27,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1191,Dog,1,Mixed Breed,Yes,12,Yes,Mild,Normal,Normal,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1192,Dog,2,Rottweiler,Yes,19,No,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1193,Dog,6,Beagle,No,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1194,Dog,6,Mixed Breed,Yes,40,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1195,Dog,1,Rottweiler,Yes,43,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1196,Dog,10,Labrador Retriever,No,30,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1197,Dog,4,Labrador Retriever,Yes,31,Yes,Normal,Normal,Normal,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Skin Allergies
+1198,Dog,3,Shih Tzu,Yes,12,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1199,Dog,9,German Shepherd,Yes,9,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1200,Dog,1,Golden Retriever,Yes,28,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1201,Cat,5,Persian,No,3,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1202,Cat,4,British Shorthair,Yes,5,No,Normal,Normal,Normal,No,No,No,Yes,No,Yes,No,No,No,No,No,No,FLUTD
+1203,Dog,11,Mixed Breed,Yes,31,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1204,Dog,1,Mixed Breed,Yes,35,No,Severe,None,Normal,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Parvovirus
+1205,Dog,4,Poodle,Yes,44,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1206,Cat,11,Persian,No,7,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1207,Dog,5,Shih Tzu,Yes,14,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1208,Cat,8,Ragdoll,No,5,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1209,Dog,1,Boxer,No,31,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1210,Cat,8,Siamese,Yes,7,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1211,Cat,15,Persian,No,4,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1212,Cat,11,Maine Coon,Yes,4,No,Normal,Decreased,Normal,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1213,Dog,4,Labrador Retriever,Yes,19,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1214,Dog,4,German Shepherd,No,17,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Kennel Cough
+1215,Cat,9,Sphynx,No,5,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,No,No,No,No,No,No,No,FLUTD
+1216,Dog,15,Poodle,Yes,13,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1217,Cat,1,Domestic Shorthair,Yes,5,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1218,Dog,3,Labrador Retriever,Yes,26,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1219,Dog,3,Rottweiler,No,13,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1220,Dog,12,German Shepherd,Yes,19,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1221,Dog,2,Boxer,Yes,21,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1222,Dog,2,Beagle,No,13,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1223,Cat,7,British Shorthair,Yes,6,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1224,Cat,12,British Shorthair,Yes,3,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1225,Dog,1,Shih Tzu,No,11,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1226,Dog,11,Shih Tzu,No,32,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1227,Cat,7,Bengal,Yes,7,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1228,Dog,14,German Shepherd,Yes,14,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1229,Dog,8,Mixed Breed,No,34,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1230,Dog,1,Shih Tzu,Yes,21,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1231,Cat,16,Bengal,Yes,5,Yes,Mild,Normal,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1232,Cat,4,British Shorthair,No,5,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1233,Dog,2,Labrador Retriever,No,25,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Parvovirus
+1234,Dog,1,French Bulldog,Yes,13,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1235,Cat,6,Bengal,Yes,7,Yes,Normal,Normal,Normal,No,No,No,Yes,No,Yes,No,No,No,No,No,No,FLUTD
+1236,Cat,13,Persian,Yes,5,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1237,Cat,13,Maine Coon,Yes,5,No,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1238,Cat,11,British Shorthair,Yes,6,No,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1239,Dog,1,Poodle,Yes,17,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1240,Dog,6,Shih Tzu,Yes,31,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1241,Dog,3,Beagle,No,10,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1242,Dog,1,German Shepherd,No,12,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1243,Dog,7,Rottweiler,Yes,8,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1244,Cat,13,Siamese,Yes,4,Yes,Mild,Decreased,Increased,No,No,No,No,No,No,No,No,No,No,No,No,CKD
+1245,Dog,19,Mixed Breed,Yes,39,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1246,Dog,4,Shih Tzu,No,12,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1247,Cat,9,Siamese,Yes,6,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1248,Dog,7,Labrador Retriever,No,28,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1249,Dog,12,Rottweiler,No,21,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1250,Dog,1,Beagle,No,37,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1251,Dog,4,French Bulldog,No,28,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Kennel Cough
+1252,Cat,3,Siamese,Yes,7,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1253,Dog,9,German Shepherd,Yes,5,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1254,Cat,1,Bengal,Yes,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1255,Cat,8,Sphynx,Yes,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1256,Dog,11,Boxer,No,37,Yes,Normal,Normal,Normal,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1257,Dog,1,Boxer,Yes,36,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1258,Cat,4,Domestic Longhair,Yes,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1259,Cat,14,Bengal,Yes,4,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1260,Cat,5,Persian,Yes,4,No,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1261,Dog,8,Rottweiler,No,17,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1262,Cat,10,Maine Coon,Yes,5,Yes,Normal,Normal,Normal,No,No,No,Yes,No,Yes,No,No,No,No,No,No,FLUTD
+1263,Cat,18,Domestic Shorthair,Yes,6,Yes,Normal,Decreased,Normal,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1264,Cat,19,Siamese,Yes,7,No,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1265,Cat,2,Sphynx,Yes,4,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1266,Dog,8,Poodle,No,43,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1267,Dog,1,Mixed Breed,Yes,7,No,Severe,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Parvovirus
+1268,Cat,6,Maine Coon,No,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1269,Dog,14,Boxer,Yes,37,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1270,Cat,9,Bengal,No,7,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1271,Dog,1,Golden Retriever,No,8,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1272,Cat,2,Domestic Longhair,Yes,6,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1273,Dog,1,Labrador Retriever,No,41,No,Severe,None,Normal,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1274,Dog,11,Poodle,No,36,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1275,Cat,13,Maine Coon,Yes,7,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1276,Dog,1,French Bulldog,No,12,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1277,Dog,2,Poodle,Yes,16,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Ear Infection
+1278,Dog,2,Poodle,No,33,No,Severe,None,Normal,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1279,Dog,11,Labrador Retriever,Yes,37,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1280,Dog,7,Mixed Breed,No,42,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1281,Cat,17,Maine Coon,Yes,3,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1282,Cat,13,Domestic Shorthair,Yes,3,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1283,Cat,2,Siamese,No,3,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1284,Dog,6,Golden Retriever,No,44,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1285,Cat,15,Persian,Yes,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1286,Dog,3,Beagle,No,25,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1287,Cat,5,Siamese,Yes,6,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1288,Cat,3,Domestic Shorthair,Yes,4,No,Normal,Normal,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1289,Dog,1,Poodle,No,24,No,Severe,Normal,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1290,Dog,2,Shih Tzu,Yes,18,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1291,Dog,9,Beagle,Yes,28,No,Mild,Normal,Normal,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Kennel Cough
+1292,Cat,2,Domestic Shorthair,No,5,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1293,Dog,8,Mixed Breed,Yes,30,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1294,Cat,7,Maine Coon,No,6,No,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1295,Dog,7,French Bulldog,Yes,38,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1296,Cat,16,Domestic Longhair,No,6,Yes,Mild,Decreased,Increased,No,No,No,No,No,No,No,No,No,No,No,No,CKD
+1297,Cat,3,Domestic Longhair,No,5,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1298,Dog,8,German Shepherd,No,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1299,Dog,6,Labrador Retriever,Yes,30,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1300,Cat,1,Maine Coon,No,3,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1301,Dog,7,Shih Tzu,Yes,38,No,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1302,Dog,7,Mixed Breed,Yes,38,No,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1303,Dog,10,French Bulldog,No,13,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1304,Dog,10,Beagle,No,6,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1305,Dog,9,Shih Tzu,No,39,No,Mild,Normal,Normal,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Kennel Cough
+1306,Dog,2,Mixed Breed,No,35,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1307,Dog,7,Beagle,No,23,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1308,Dog,2,Golden Retriever,No,15,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1309,Dog,7,Poodle,Yes,17,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Skin Allergies
+1310,Dog,2,Poodle,No,38,Yes,Normal,Normal,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1311,Dog,1,Mixed Breed,No,21,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1312,Dog,9,Rottweiler,Yes,20,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1313,Dog,7,Rottweiler,Yes,17,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1314,Dog,13,Boxer,Yes,44,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1315,Cat,15,Domestic Shorthair,Yes,7,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1316,Dog,3,Labrador Retriever,No,15,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1317,Dog,7,German Shepherd,Yes,19,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1318,Dog,12,French Bulldog,No,14,Yes,Mild,Normal,Normal,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1319,Cat,9,Siamese,Yes,4,No,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1320,Cat,3,Persian,No,5,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1321,Dog,7,German Shepherd,Yes,22,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1322,Dog,10,Poodle,Yes,42,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1323,Cat,11,Domestic Shorthair,Yes,5,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1324,Cat,10,Siamese,Yes,6,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1325,Dog,2,Boxer,Yes,23,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Parvovirus
+1326,Dog,15,French Bulldog,Yes,14,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1327,Dog,9,Shih Tzu,No,30,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Arthritis
+1328,Dog,13,Labrador Retriever,Yes,42,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1329,Dog,2,Golden Retriever,No,13,No,Severe,None,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Parvovirus
+1330,Cat,11,Maine Coon,No,3,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Hairball
+1331,Dog,6,Golden Retriever,No,28,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1332,Dog,2,Mixed Breed,No,30,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1333,Dog,11,Shih Tzu,No,12,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1334,Cat,6,Siamese,Yes,7,Yes,Normal,Normal,Normal,No,No,No,No,Yes,Yes,No,No,No,No,No,No,FLUTD
+1335,Dog,12,Poodle,Yes,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1336,Cat,4,Sphynx,Yes,3,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1337,Cat,3,Bengal,No,3,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1338,Dog,17,German Shepherd,Yes,22,No,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1339,Cat,5,Bengal,Yes,3,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1340,Dog,2,Beagle,Yes,36,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1341,Dog,9,Poodle,No,27,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1342,Cat,2,Domestic Longhair,No,4,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1343,Cat,1,Siamese,Yes,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1344,Dog,2,Labrador Retriever,Yes,22,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1345,Dog,1,Mixed Breed,No,15,No,Severe,None,Normal,No,No,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1346,Dog,11,Rottweiler,No,26,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1347,Dog,12,Boxer,Yes,34,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1348,Dog,7,Shih Tzu,Yes,14,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1349,Cat,18,Ragdoll,Yes,5,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1350,Dog,9,French Bulldog,No,42,No,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1351,Cat,10,Ragdoll,Yes,5,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1352,Cat,4,British Shorthair,Yes,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1353,Cat,14,British Shorthair,No,4,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1354,Dog,2,Shih Tzu,Yes,12,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1355,Dog,14,Shih Tzu,No,42,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1356,Dog,19,Rottweiler,Yes,38,No,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1357,Dog,2,Poodle,Yes,15,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Parvovirus
+1358,Dog,8,Beagle,No,39,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1359,Cat,2,Sphynx,Yes,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1360,Cat,2,Sphynx,No,7,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1361,Cat,10,British Shorthair,Yes,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1362,Cat,6,Siamese,No,5,Yes,Normal,Normal,Normal,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,FLUTD
+1363,Dog,7,Boxer,No,10,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1364,Dog,7,Poodle,No,41,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1365,Dog,10,Rottweiler,No,34,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1366,Cat,13,Bengal,Yes,3,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,Yes,No,No,No,No,CKD
+1367,Dog,12,Golden Retriever,No,14,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1368,Cat,7,Domestic Shorthair,Yes,7,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1369,Dog,9,French Bulldog,No,21,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1370,Cat,16,British Shorthair,No,4,No,Mild,Decreased,Increased,No,No,No,No,No,No,No,No,No,No,No,No,CKD
+1371,Cat,4,Maine Coon,Yes,6,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1372,Dog,1,Rottweiler,No,35,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1373,Cat,1,British Shorthair,No,3,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1374,Dog,11,Shih Tzu,Yes,21,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1375,Dog,7,French Bulldog,Yes,16,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1376,Cat,1,Maine Coon,No,3,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1377,Dog,1,Boxer,No,8,No,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1378,Dog,7,Boxer,No,27,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1379,Cat,7,Sphynx,No,4,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1380,Dog,10,Rottweiler,No,28,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1381,Cat,19,Ragdoll,No,6,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1382,Dog,2,Poodle,Yes,10,No,Normal,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1383,Dog,2,German Shepherd,Yes,27,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1384,Dog,6,French Bulldog,No,25,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1385,Dog,10,Rottweiler,Yes,42,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1386,Cat,6,British Shorthair,No,7,Yes,Normal,Normal,Normal,No,No,No,No,Yes,No,No,No,No,No,No,No,FLUTD
+1387,Dog,7,Boxer,Yes,43,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1388,Cat,5,Domestic Longhair,No,3,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1389,Dog,19,Boxer,No,36,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1390,Dog,10,German Shepherd,No,44,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Kennel Cough
+1391,Cat,10,Ragdoll,Yes,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1392,Cat,18,Ragdoll,Yes,7,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,Yes,No,No,CKD
+1393,Dog,8,Shih Tzu,Yes,19,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1394,Dog,14,French Bulldog,No,31,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1395,Dog,1,Mixed Breed,Yes,22,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1396,Dog,2,Shih Tzu,No,6,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1397,Dog,2,Poodle,Yes,35,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1398,Cat,6,Domestic Shorthair,Yes,3,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1399,Cat,3,Maine Coon,No,7,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1400,Dog,1,Beagle,No,27,Yes,Severe,None,Normal,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Parvovirus
+1401,Cat,1,Siamese,Yes,6,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1402,Dog,2,Beagle,No,35,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Ear Infection
+1403,Dog,12,Rottweiler,Yes,31,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1404,Dog,13,Golden Retriever,No,40,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1405,Dog,3,German Shepherd,Yes,18,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1406,Dog,16,Beagle,No,33,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1407,Dog,6,Rottweiler,No,9,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1408,Dog,12,Boxer,Yes,24,No,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1409,Dog,1,German Shepherd,No,6,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Parvovirus
+1410,Dog,18,Mixed Breed,No,9,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1411,Dog,9,Rottweiler,Yes,19,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1412,Cat,3,Bengal,Yes,3,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1413,Dog,19,Golden Retriever,Yes,33,No,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1414,Dog,19,Golden Retriever,No,43,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1415,Cat,2,Domestic Longhair,No,4,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1416,Dog,1,Poodle,Yes,27,No,Normal,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1417,Cat,4,Ragdoll,No,4,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1418,Dog,1,German Shepherd,No,21,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1419,Dog,1,Shih Tzu,Yes,34,No,Severe,Normal,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1420,Cat,8,British Shorthair,Yes,7,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1421,Dog,16,Beagle,Yes,31,No,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,Yes,Arthritis
+1422,Cat,3,Sphynx,Yes,4,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1423,Dog,7,Rottweiler,Yes,27,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1424,Dog,1,Labrador Retriever,Yes,19,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Skin Allergies
+1425,Cat,3,Siamese,No,3,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,Yes,No,No,No,Upper Respiratory Infection
+1426,Cat,15,Maine Coon,No,7,Yes,Mild,Decreased,Increased,No,No,No,No,No,No,No,No,No,No,No,No,CKD
+1427,Cat,10,Sphynx,No,5,Yes,Mild,Normal,Normal,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1428,Dog,9,Golden Retriever,No,38,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1429,Cat,13,Ragdoll,No,3,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1430,Cat,13,Ragdoll,Yes,7,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1431,Cat,2,Ragdoll,Yes,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1432,Dog,2,German Shepherd,No,11,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1433,Dog,11,Beagle,Yes,9,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1434,Dog,10,Mixed Breed,Yes,29,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Skin Allergies
+1435,Dog,2,Poodle,Yes,13,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Ear Infection
+1436,Dog,8,Rottweiler,No,15,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1437,Cat,3,Sphynx,Yes,3,Yes,Normal,Decreased,Normal,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1438,Dog,1,Beagle,No,19,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1439,Cat,12,Domestic Longhair,No,5,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1440,Dog,5,Poodle,No,21,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1441,Cat,3,Bengal,Yes,3,Yes,Normal,Normal,Normal,No,No,No,Yes,No,Yes,No,No,No,No,No,No,FLUTD
+1442,Dog,12,Shih Tzu,No,35,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Kennel Cough
+1443,Cat,4,Persian,No,5,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1444,Dog,14,Labrador Retriever,Yes,18,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1445,Dog,9,Mixed Breed,Yes,25,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1446,Dog,2,Beagle,No,40,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1447,Dog,14,French Bulldog,Yes,28,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1448,Dog,10,Mixed Breed,No,18,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1449,Cat,20,Ragdoll,No,3,Yes,Mild,Decreased,Increased,Yes,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1450,Cat,9,British Shorthair,Yes,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1451,Dog,7,Labrador Retriever,Yes,5,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1452,Dog,7,Boxer,No,29,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,Dietary Indiscretion
+1453,Dog,2,Boxer,No,34,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1454,Cat,7,Ragdoll,No,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1455,Dog,18,Beagle,Yes,28,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,Yes,No,No,No,Arthritis
+1456,Dog,7,German Shepherd,Yes,30,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Ear Infection
+1457,Dog,6,Boxer,Yes,39,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Kennel Cough
+1458,Cat,7,Ragdoll,No,4,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1459,Dog,4,Golden Retriever,No,44,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Ear Infection
+1460,Dog,2,Shih Tzu,No,11,No,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1461,Dog,3,French Bulldog,Yes,27,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1462,Cat,11,Domestic Shorthair,No,3,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,No,No,No,No,Upper Respiratory Infection
+1463,Dog,9,Mixed Breed,Yes,26,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1464,Dog,4,German Shepherd,No,39,No,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1465,Cat,3,Persian,Yes,7,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,No,No,No,No,Upper Respiratory Infection
+1466,Dog,19,French Bulldog,No,37,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1467,Dog,9,Shih Tzu,No,25,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1468,Dog,11,Boxer,No,10,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1469,Cat,5,Bengal,No,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1470,Dog,14,Poodle,Yes,37,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1471,Cat,6,Siamese,No,3,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1472,Dog,2,Rottweiler,No,36,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1473,Dog,11,Shih Tzu,No,26,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1474,Dog,13,Boxer,No,12,No,Normal,Normal,Normal,No,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1475,Dog,7,Rottweiler,Yes,15,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1476,Dog,14,Beagle,Yes,37,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1477,Dog,1,German Shepherd,Yes,19,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1478,Cat,10,Ragdoll,No,6,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1479,Cat,3,Sphynx,No,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1480,Dog,14,French Bulldog,No,9,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1481,Dog,15,Labrador Retriever,Yes,29,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1482,Cat,10,British Shorthair,Yes,3,Yes,Normal,Decreased,Increased,Yes,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1483,Cat,6,British Shorthair,No,7,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1484,Dog,1,Poodle,No,39,Yes,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1485,Dog,7,Labrador Retriever,No,30,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1486,Dog,5,German Shepherd,No,13,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1487,Cat,6,Domestic Shorthair,Yes,6,Yes,Normal,Normal,Normal,No,No,No,Yes,No,Yes,No,No,No,No,No,No,FLUTD
+1488,Dog,6,Mixed Breed,Yes,23,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1489,Dog,18,Beagle,No,36,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1490,Dog,9,Beagle,Yes,17,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1491,Dog,2,Poodle,Yes,40,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1492,Cat,7,Bengal,Yes,6,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1493,Cat,12,Persian,Yes,5,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Upper Respiratory Infection
+1494,Dog,2,Rottweiler,No,24,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1495,Dog,15,Boxer,No,37,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1496,Cat,12,British Shorthair,No,5,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1497,Cat,2,Siamese,No,4,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1498,Dog,4,French Bulldog,Yes,39,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1499,Dog,6,Shih Tzu,No,40,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1500,Cat,2,Persian,Yes,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1501,Dog,3,Boxer,Yes,13,No,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1502,Dog,9,Poodle,No,43,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1503,Cat,11,Sphynx,No,3,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1504,Dog,1,Boxer,No,43,No,Severe,None,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Parvovirus
+1505,Dog,9,Boxer,No,26,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1506,Dog,2,Poodle,Yes,36,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1507,Cat,10,Ragdoll,No,6,No,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1508,Dog,2,Beagle,No,34,No,Severe,None,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Parvovirus
+1509,Cat,8,Maine Coon,No,5,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1510,Cat,14,Domestic Shorthair,No,5,Yes,Mild,Normal,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1511,Dog,15,Poodle,No,33,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1512,Cat,2,Domestic Shorthair,No,6,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1513,Dog,14,Golden Retriever,No,44,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1514,Dog,12,Shih Tzu,No,32,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1515,Dog,5,Poodle,No,35,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Ear Infection
+1516,Dog,12,Boxer,No,14,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hip Dysplasia
+1517,Dog,20,Poodle,Yes,32,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1518,Cat,19,Domestic Shorthair,No,5,No,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1519,Cat,1,Siamese,Yes,3,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Skin Allergies
+1520,Cat,11,Sphynx,Yes,6,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Hairball
+1521,Cat,9,Domestic Longhair,Yes,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1522,Cat,9,Siamese,No,4,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1523,Dog,4,Shih Tzu,Yes,27,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1524,Dog,13,German Shepherd,Yes,38,Yes,Normal,Normal,Normal,No,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1525,Dog,5,Boxer,Yes,14,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hip Dysplasia
+1526,Dog,8,French Bulldog,No,38,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1527,Dog,10,Rottweiler,Yes,13,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1528,Cat,17,British Shorthair,No,3,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1529,Dog,7,Poodle,Yes,43,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Kennel Cough
+1530,Dog,11,Labrador Retriever,No,17,Yes,Mild,Normal,Normal,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1531,Dog,3,Golden Retriever,No,27,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Ear Infection
+1532,Dog,2,Labrador Retriever,No,11,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1533,Cat,8,Domestic Longhair,Yes,4,No,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1534,Cat,15,Sphynx,Yes,4,No,Mild,Decreased,Increased,No,No,No,No,Yes,Yes,No,No,No,No,No,No,CKD
+1535,Dog,6,Beagle,No,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1536,Dog,8,Shih Tzu,No,43,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1537,Dog,1,Labrador Retriever,No,25,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1538,Dog,4,Golden Retriever,Yes,10,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1539,Cat,3,Ragdoll,No,3,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1540,Cat,7,Maine Coon,Yes,4,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Upper Respiratory Infection
+1541,Dog,12,German Shepherd,No,24,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1542,Dog,5,Boxer,Yes,25,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1543,Cat,12,Persian,Yes,5,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1544,Cat,1,Maine Coon,No,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1545,Cat,5,Persian,Yes,3,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Skin Allergies
+1546,Dog,11,Beagle,No,30,No,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1547,Cat,1,British Shorthair,Yes,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,Yes,No,Skin Allergies
+1548,Dog,5,Mixed Breed,Yes,33,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1549,Dog,15,Poodle,Yes,7,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1550,Dog,4,Labrador Retriever,Yes,39,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1551,Dog,18,Mixed Breed,Yes,44,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1552,Cat,7,Ragdoll,Yes,4,Yes,Normal,Normal,Normal,No,No,No,Yes,No,Yes,No,No,No,No,No,No,FLUTD
+1553,Cat,2,Domestic Longhair,Yes,4,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1554,Dog,10,Poodle,Yes,13,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1555,Cat,1,Maine Coon,No,4,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1556,Cat,12,Domestic Longhair,Yes,6,Yes,Mild,Decreased,Normal,No,No,No,No,Yes,No,Yes,No,No,No,No,No,CKD
+1557,Cat,9,British Shorthair,No,4,No,Normal,Normal,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1558,Dog,9,Labrador Retriever,No,18,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1559,Dog,13,Labrador Retriever,No,29,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1560,Cat,3,Domestic Shorthair,No,5,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1561,Cat,1,Persian,Yes,4,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1562,Dog,1,German Shepherd,No,7,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1563,Cat,9,Siamese,No,6,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1564,Cat,2,Ragdoll,Yes,7,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1565,Dog,4,Shih Tzu,Yes,31,No,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1566,Dog,16,Golden Retriever,No,6,Yes,Mild,Normal,Normal,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1567,Dog,10,German Shepherd,Yes,34,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hip Dysplasia
+1568,Dog,1,German Shepherd,Yes,20,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1569,Cat,13,Bengal,Yes,7,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1570,Cat,7,Siamese,No,3,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1571,Dog,7,Shih Tzu,Yes,15,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1572,Cat,8,Ragdoll,Yes,4,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1573,Cat,4,Ragdoll,Yes,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1574,Dog,14,Beagle,No,18,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1575,Dog,13,Rottweiler,No,17,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1576,Cat,20,Ragdoll,Yes,6,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1577,Dog,1,German Shepherd,Yes,19,No,Severe,None,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Parvovirus
+1578,Cat,3,Ragdoll,No,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1579,Cat,9,British Shorthair,Yes,5,No,Mild,Decreased,Increased,Yes,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1580,Cat,5,Domestic Longhair,No,7,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1581,Dog,10,French Bulldog,Yes,35,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1582,Cat,9,Persian,Yes,6,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1583,Cat,7,Siamese,No,7,Yes,Normal,Normal,Normal,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1584,Dog,7,Shih Tzu,Yes,42,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1585,Dog,8,Mixed Breed,No,38,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1586,Dog,2,Labrador Retriever,Yes,14,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1587,Dog,6,Shih Tzu,No,20,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Kennel Cough
+1588,Dog,7,Golden Retriever,No,8,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1589,Dog,12,Shih Tzu,Yes,20,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1590,Cat,8,Ragdoll,No,5,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1591,Cat,11,Domestic Longhair,Yes,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1592,Dog,5,Mixed Breed,Yes,36,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1593,Dog,20,Shih Tzu,No,28,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1594,Dog,10,German Shepherd,Yes,33,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1595,Dog,2,Golden Retriever,Yes,17,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1596,Dog,15,Mixed Breed,No,40,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1597,Dog,3,Beagle,No,19,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1598,Dog,5,German Shepherd,No,25,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1599,Dog,5,Shih Tzu,Yes,20,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1600,Cat,11,Domestic Shorthair,Yes,3,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1601,Cat,15,Domestic Shorthair,No,5,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1602,Dog,5,Golden Retriever,Yes,25,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1603,Cat,6,Persian,No,4,Yes,Normal,Normal,Normal,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,FLUTD
+1604,Cat,10,Siamese,No,5,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1605,Dog,15,Rottweiler,Yes,28,No,Normal,Normal,Normal,No,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1606,Cat,1,Persian,No,7,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1607,Cat,1,Ragdoll,Yes,4,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1608,Cat,14,Siamese,No,6,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,No,No,No,No,Upper Respiratory Infection
+1609,Dog,12,Beagle,Yes,18,No,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1610,Cat,15,Bengal,No,7,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1611,Cat,10,Persian,No,6,Yes,Normal,Normal,Normal,No,No,No,No,No,Yes,No,No,No,No,No,No,FLUTD
+1612,Dog,13,Rottweiler,Yes,44,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1613,Cat,10,Maine Coon,Yes,6,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1614,Dog,5,Poodle,Yes,28,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1615,Cat,18,Ragdoll,No,3,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1616,Dog,7,Boxer,No,32,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1617,Dog,11,Poodle,No,28,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1618,Dog,6,Rottweiler,No,36,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1619,Cat,18,Ragdoll,Yes,7,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1620,Cat,7,Siamese,Yes,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1621,Cat,7,Domestic Shorthair,No,4,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1622,Cat,10,Ragdoll,No,7,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1623,Cat,10,Domestic Shorthair,No,3,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1624,Cat,13,Domestic Shorthair,Yes,3,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1625,Cat,1,Ragdoll,Yes,4,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1626,Cat,15,Persian,Yes,3,Yes,Mild,Normal,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1627,Dog,10,Rottweiler,Yes,23,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1628,Dog,9,Golden Retriever,Yes,43,No,Mild,Normal,Normal,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Arthritis
+1629,Dog,2,Labrador Retriever,Yes,21,No,Severe,None,Normal,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1630,Dog,14,Rottweiler,No,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1631,Cat,6,Ragdoll,No,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Skin Allergies
+1632,Dog,11,Shih Tzu,No,35,No,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1633,Dog,1,Shih Tzu,Yes,18,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Dietary Indiscretion
+1634,Cat,2,Persian,Yes,5,No,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1635,Cat,11,Maine Coon,No,3,No,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1636,Dog,8,Poodle,Yes,36,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1637,Cat,2,Domestic Longhair,Yes,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1638,Cat,15,Ragdoll,No,4,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1639,Cat,2,Siamese,Yes,3,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1640,Cat,14,Persian,Yes,4,Yes,Normal,Decreased,Normal,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Upper Respiratory Infection
+1641,Cat,12,Siamese,No,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1642,Dog,7,Boxer,No,17,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1643,Cat,9,Sphynx,Yes,7,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Upper Respiratory Infection
+1644,Cat,9,Sphynx,No,5,No,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1645,Dog,8,French Bulldog,Yes,35,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1646,Dog,10,Shih Tzu,Yes,6,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1647,Dog,18,Beagle,Yes,23,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1648,Dog,17,Mixed Breed,Yes,43,No,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1649,Dog,11,Shih Tzu,Yes,26,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Ear Infection
+1650,Cat,4,Maine Coon,No,6,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1651,Cat,5,Bengal,Yes,3,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1652,Dog,1,Boxer,Yes,21,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1653,Dog,11,German Shepherd,No,32,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hip Dysplasia
+1654,Cat,13,Bengal,Yes,3,No,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,Upper Respiratory Infection
+1655,Dog,12,Shih Tzu,Yes,18,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1656,Dog,15,Boxer,No,22,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1657,Cat,6,Ragdoll,No,3,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1658,Cat,8,Bengal,No,7,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1659,Dog,9,French Bulldog,No,15,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1660,Dog,15,Boxer,No,17,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1661,Dog,14,Shih Tzu,No,37,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1662,Cat,17,Persian,Yes,5,Yes,Mild,Decreased,Normal,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1663,Cat,2,Sphynx,No,3,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1664,Dog,13,German Shepherd,No,42,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1665,Cat,5,Domestic Shorthair,Yes,7,No,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1666,Dog,13,Shih Tzu,No,7,No,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1667,Dog,8,French Bulldog,Yes,20,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1668,Dog,1,German Shepherd,No,27,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1669,Dog,9,French Bulldog,Yes,10,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Kennel Cough
+1670,Cat,20,Bengal,Yes,4,Yes,Mild,Decreased,Increased,Yes,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1671,Cat,2,British Shorthair,No,7,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1672,Dog,2,Rottweiler,No,29,No,Normal,None,Normal,No,Yes,No,No,No,No,No,No,No,No,No,No,Parvovirus
+1673,Dog,3,Poodle,Yes,13,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1674,Dog,2,Poodle,No,8,No,Severe,None,Normal,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Parvovirus
+1675,Dog,1,German Shepherd,No,10,No,Severe,None,Normal,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1676,Dog,5,Mixed Breed,No,15,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1677,Dog,5,Golden Retriever,Yes,11,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1678,Cat,7,Domestic Longhair,No,5,Yes,Normal,Normal,Normal,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,FLUTD
+1679,Cat,1,British Shorthair,No,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1680,Dog,12,Labrador Retriever,Yes,39,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1681,Cat,19,Domestic Shorthair,No,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1682,Dog,14,French Bulldog,Yes,25,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1683,Dog,9,Golden Retriever,Yes,26,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1684,Cat,10,Maine Coon,No,6,No,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1685,Dog,14,Beagle,No,32,No,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1686,Dog,9,Rottweiler,Yes,11,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1687,Dog,15,Shih Tzu,No,15,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1688,Cat,14,Sphynx,Yes,7,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1689,Cat,9,Ragdoll,No,4,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1690,Cat,16,Domestic Shorthair,Yes,7,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,Yes,No,No,No,CKD
+1691,Cat,8,Persian,Yes,4,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1692,Cat,6,Ragdoll,Yes,3,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1693,Cat,1,Siamese,No,7,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1694,Dog,17,French Bulldog,No,32,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1695,Dog,16,Mixed Breed,No,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1696,Cat,3,Siamese,No,5,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1697,Cat,14,Bengal,Yes,4,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1698,Cat,11,Domestic Longhair,No,6,Yes,Mild,Decreased,Increased,No,No,No,No,No,No,No,No,No,No,No,No,CKD
+1699,Cat,9,Siamese,No,4,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1700,Cat,17,Bengal,No,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1701,Dog,2,Labrador Retriever,No,29,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1702,Cat,5,Sphynx,No,4,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1703,Dog,1,German Shepherd,No,30,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Kennel Cough
+1704,Cat,3,Siamese,Yes,6,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1705,Cat,2,Sphynx,No,3,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1706,Cat,9,Maine Coon,No,3,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1707,Dog,10,Rottweiler,Yes,5,No,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1708,Dog,6,Boxer,Yes,31,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1709,Cat,3,Persian,Yes,3,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1710,Dog,1,Golden Retriever,Yes,10,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Dietary Indiscretion
+1711,Dog,5,Golden Retriever,Yes,35,No,Normal,Normal,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1712,Dog,7,Shih Tzu,Yes,14,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1713,Cat,13,Sphynx,No,6,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1714,Dog,4,Rottweiler,Yes,38,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1715,Cat,10,Maine Coon,No,7,Yes,Normal,Normal,Normal,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Hairball
+1716,Dog,1,French Bulldog,No,6,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1717,Cat,10,Maine Coon,Yes,6,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1718,Dog,13,Rottweiler,Yes,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1719,Dog,5,Golden Retriever,Yes,15,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1720,Dog,8,Shih Tzu,No,5,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1721,Cat,3,Domestic Longhair,No,4,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1722,Cat,10,Persian,No,7,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1723,Dog,10,German Shepherd,Yes,44,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1724,Dog,2,German Shepherd,Yes,24,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1725,Dog,1,Golden Retriever,No,29,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1726,Cat,15,Persian,No,5,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1727,Cat,12,Ragdoll,No,5,No,Mild,Decreased,Increased,No,No,No,No,No,No,No,No,No,No,No,No,CKD
+1728,Cat,16,Siamese,Yes,6,No,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1729,Dog,12,Shih Tzu,Yes,41,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1730,Dog,11,Rottweiler,No,23,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Arthritis
+1731,Dog,14,German Shepherd,No,19,No,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1732,Dog,9,French Bulldog,No,42,Yes,Mild,Normal,Normal,No,No,No,No,No,Yes,No,No,No,No,No,Yes,Arthritis
+1733,Dog,15,Beagle,No,15,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Arthritis
+1734,Dog,12,Golden Retriever,Yes,12,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1735,Dog,17,Poodle,Yes,10,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Arthritis
+1736,Cat,17,Persian,Yes,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1737,Cat,3,Siamese,No,5,No,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1738,Dog,10,Mixed Breed,Yes,41,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Arthritis
+1739,Cat,3,Sphynx,No,5,Yes,Normal,Normal,Normal,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,FLUTD
+1740,Dog,5,Boxer,Yes,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1741,Cat,9,Persian,Yes,7,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1742,Cat,9,Maine Coon,Yes,6,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1743,Cat,6,Domestic Shorthair,Yes,4,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1744,Cat,1,Bengal,Yes,6,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,Yes,No,No,No,Upper Respiratory Infection
+1745,Dog,2,Rottweiler,Yes,33,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1746,Dog,2,Poodle,Yes,15,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1747,Dog,1,Mixed Breed,Yes,9,No,Normal,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Parvovirus
+1748,Dog,6,Shih Tzu,Yes,11,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1749,Dog,7,Shih Tzu,Yes,39,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1750,Dog,8,Boxer,No,24,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1751,Dog,6,Mixed Breed,Yes,39,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,Dietary Indiscretion
+1752,Cat,19,Bengal,No,5,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,Yes,No,No,CKD
+1753,Dog,13,Golden Retriever,No,12,No,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1754,Dog,1,Golden Retriever,No,41,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1755,Dog,1,Poodle,Yes,41,Yes,Severe,None,Normal,No,Yes,No,No,No,No,No,No,No,No,No,No,Parvovirus
+1756,Dog,12,Golden Retriever,No,9,No,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1757,Cat,7,Siamese,No,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1758,Dog,7,Golden Retriever,Yes,30,No,Normal,Normal,Normal,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Kennel Cough
+1759,Dog,6,Beagle,Yes,32,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1760,Cat,10,Siamese,Yes,7,Yes,Mild,Decreased,Increased,No,No,Yes,No,Yes,No,No,No,No,No,No,No,CKD
+1761,Cat,9,Siamese,No,6,Yes,Normal,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1762,Dog,6,Beagle,No,27,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,Yes,No,Skin Allergies
+1763,Dog,7,Boxer,Yes,23,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1764,Dog,7,Shih Tzu,No,29,No,Mild,Normal,Normal,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Arthritis
+1765,Dog,7,Labrador Retriever,Yes,30,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1766,Cat,10,Siamese,No,7,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1767,Cat,20,Domestic Shorthair,No,5,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1768,Cat,2,Siamese,No,3,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1769,Cat,6,Bengal,Yes,6,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,No,No,No,No,Upper Respiratory Infection
+1770,Cat,6,Bengal,No,7,Yes,Normal,Decreased,Normal,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Hairball
+1771,Dog,18,French Bulldog,Yes,43,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1772,Cat,10,Ragdoll,No,7,No,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1773,Cat,3,British Shorthair,Yes,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Skin Allergies
+1774,Cat,17,Sphynx,No,7,No,Normal,Decreased,Increased,Yes,No,Yes,No,No,No,No,No,No,No,No,No,CKD
+1775,Cat,7,Siamese,No,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1776,Cat,4,Siamese,No,3,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1777,Dog,2,Labrador Retriever,Yes,8,No,Severe,None,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Parvovirus
+1778,Dog,10,Golden Retriever,No,41,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1779,Dog,6,French Bulldog,No,37,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1780,Dog,8,Golden Retriever,Yes,11,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hip Dysplasia
+1781,Cat,11,Domestic Shorthair,Yes,5,No,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1782,Dog,4,Labrador Retriever,No,22,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1783,Cat,8,Domestic Longhair,No,3,No,Normal,Decreased,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Upper Respiratory Infection
+1784,Dog,9,Beagle,Yes,30,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1785,Dog,5,Shih Tzu,Yes,44,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Hip Dysplasia
+1786,Cat,9,Sphynx,No,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1787,Dog,9,Rottweiler,Yes,10,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1788,Dog,9,Rottweiler,No,27,Yes,Normal,Normal,Normal,No,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1789,Cat,10,Bengal,No,4,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1790,Dog,5,Boxer,Yes,15,No,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1791,Dog,9,Shih Tzu,Yes,40,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1792,Dog,18,Shih Tzu,Yes,42,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1793,Cat,11,Siamese,No,3,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1794,Cat,19,Domestic Longhair,Yes,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1795,Dog,4,Boxer,Yes,24,No,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1796,Cat,1,Persian,Yes,5,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Hairball
+1797,Cat,5,Domestic Shorthair,No,7,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1798,Dog,2,Golden Retriever,No,17,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1799,Dog,6,French Bulldog,No,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1800,Dog,8,Rottweiler,Yes,41,Yes,Normal,Normal,Normal,No,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1801,Cat,15,Persian,Yes,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1802,Dog,9,French Bulldog,Yes,18,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1803,Cat,20,Domestic Shorthair,Yes,6,Yes,Mild,Decreased,Increased,No,No,No,No,No,No,No,No,No,No,No,No,CKD
+1804,Cat,3,Ragdoll,Yes,7,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1805,Dog,2,Golden Retriever,Yes,41,Yes,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1806,Dog,17,Mixed Breed,Yes,16,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1807,Dog,10,Rottweiler,Yes,35,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1808,Cat,2,Ragdoll,Yes,3,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1809,Dog,2,Golden Retriever,No,24,Yes,Normal,Normal,Normal,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1810,Cat,8,Sphynx,No,4,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1811,Cat,9,Sphynx,No,4,Yes,Normal,Normal,Normal,No,No,No,Yes,No,Yes,No,No,No,No,No,No,FLUTD
+1812,Cat,10,British Shorthair,No,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1813,Cat,4,Sphynx,No,3,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1814,Dog,15,Shih Tzu,No,12,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1815,Dog,8,Labrador Retriever,Yes,39,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1816,Dog,1,Boxer,No,22,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1817,Cat,4,Domestic Longhair,Yes,6,No,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1818,Cat,3,Maine Coon,No,3,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1819,Dog,10,Beagle,No,27,No,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1820,Cat,7,Persian,Yes,3,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1821,Cat,6,Sphynx,No,6,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,FLUTD
+1822,Cat,4,Ragdoll,Yes,4,No,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1823,Dog,15,Poodle,Yes,44,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1824,Cat,7,British Shorthair,Yes,6,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1825,Dog,8,Boxer,No,27,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1826,Dog,13,Shih Tzu,Yes,37,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1827,Dog,2,Beagle,No,25,Yes,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Parvovirus
+1828,Dog,1,Mixed Breed,No,21,No,Normal,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1829,Cat,10,Domestic Longhair,No,7,No,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1830,Cat,13,Persian,No,3,No,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1831,Dog,4,German Shepherd,No,40,No,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1832,Dog,6,Golden Retriever,No,39,No,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1833,Cat,5,Sphynx,No,6,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1834,Cat,19,Domestic Shorthair,Yes,3,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1835,Dog,8,Labrador Retriever,Yes,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1836,Dog,19,French Bulldog,No,16,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1837,Cat,9,British Shorthair,Yes,7,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1838,Dog,7,Labrador Retriever,No,8,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1839,Dog,3,Golden Retriever,Yes,30,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Kennel Cough
+1840,Dog,15,Labrador Retriever,No,33,No,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1841,Dog,15,Labrador Retriever,Yes,37,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Kennel Cough
+1842,Dog,2,German Shepherd,Yes,23,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1843,Dog,13,Boxer,Yes,14,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1844,Dog,11,Shih Tzu,Yes,35,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hip Dysplasia
+1845,Cat,10,Maine Coon,Yes,3,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1846,Dog,2,Beagle,Yes,5,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1847,Dog,12,Mixed Breed,No,26,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Kennel Cough
+1848,Cat,3,Maine Coon,No,6,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1849,Dog,9,Rottweiler,Yes,33,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1850,Dog,18,Mixed Breed,Yes,16,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1851,Cat,1,Bengal,No,4,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1852,Dog,13,French Bulldog,Yes,24,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,Yes,Arthritis
+1853,Dog,19,Golden Retriever,Yes,36,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1854,Dog,14,Poodle,No,26,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1855,Cat,8,Domestic Shorthair,Yes,6,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1856,Cat,4,Siamese,No,3,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,Yes,No,Skin Allergies
+1857,Cat,3,British Shorthair,No,5,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1858,Dog,11,Boxer,Yes,35,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1859,Dog,1,French Bulldog,Yes,42,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1860,Dog,9,Shih Tzu,Yes,38,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1861,Dog,10,Rottweiler,Yes,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1862,Dog,13,Boxer,Yes,33,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1863,Cat,6,Maine Coon,No,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1864,Cat,13,Domestic Longhair,No,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1865,Cat,15,Domestic Shorthair,Yes,7,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1866,Dog,11,Labrador Retriever,No,20,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1867,Dog,10,Shih Tzu,Yes,11,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1868,Dog,17,Golden Retriever,Yes,41,No,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1869,Dog,4,Poodle,Yes,14,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Kennel Cough
+1870,Dog,15,Boxer,No,22,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1871,Dog,12,Shih Tzu,No,11,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1872,Dog,5,Boxer,Yes,35,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1873,Cat,6,Ragdoll,Yes,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1874,Cat,11,Domestic Longhair,No,7,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Hairball
+1875,Dog,9,Shih Tzu,Yes,30,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1876,Dog,8,French Bulldog,No,17,Yes,Normal,Normal,Normal,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1877,Cat,13,Siamese,Yes,7,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1878,Cat,3,British Shorthair,Yes,3,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1879,Cat,13,Domestic Shorthair,Yes,6,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1880,Dog,13,Mixed Breed,Yes,5,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1881,Dog,14,German Shepherd,Yes,37,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1882,Dog,6,Golden Retriever,Yes,37,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1883,Dog,8,Golden Retriever,No,36,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hip Dysplasia
+1884,Dog,3,Rottweiler,Yes,28,Yes,Normal,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Kennel Cough
+1885,Dog,17,Beagle,No,16,No,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1886,Dog,10,Poodle,No,14,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1887,Cat,3,Maine Coon,Yes,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1888,Dog,14,Golden Retriever,No,42,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1889,Cat,3,Bengal,No,7,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1890,Dog,8,Rottweiler,No,18,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Ear Infection
+1891,Cat,19,Domestic Shorthair,No,6,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,Yes,No,No,No,CKD
+1892,Dog,9,Shih Tzu,Yes,12,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1893,Dog,8,Labrador Retriever,No,12,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1894,Cat,2,Siamese,Yes,7,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,Yes,No,No,No,Upper Respiratory Infection
+1895,Dog,19,Labrador Retriever,No,20,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1896,Dog,10,Mixed Breed,No,13,No,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1897,Dog,1,French Bulldog,No,23,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1898,Cat,10,Persian,Yes,3,Yes,Normal,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1899,Dog,12,Mixed Breed,No,24,No,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1900,Cat,10,Bengal,Yes,6,Yes,Normal,Decreased,Increased,No,No,No,No,Yes,Yes,No,No,No,No,No,No,CKD
+1901,Dog,7,Labrador Retriever,No,12,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1902,Cat,11,Persian,No,7,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1903,Cat,8,Bengal,No,4,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1904,Dog,6,Golden Retriever,No,34,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1905,Dog,14,Labrador Retriever,Yes,14,Yes,Mild,Normal,Normal,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Kennel Cough
+1906,Dog,12,German Shepherd,No,34,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1907,Cat,18,Siamese,No,4,Yes,Mild,Decreased,Normal,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1908,Dog,4,Golden Retriever,No,19,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1909,Dog,14,Shih Tzu,Yes,11,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1910,Dog,2,French Bulldog,No,13,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1911,Cat,11,Ragdoll,No,3,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1912,Dog,1,Beagle,No,6,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1913,Dog,17,French Bulldog,No,6,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1914,Cat,5,Ragdoll,Yes,6,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1915,Dog,13,Shih Tzu,No,37,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1916,Dog,7,German Shepherd,No,41,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1917,Dog,15,Boxer,Yes,12,Yes,Mild,Normal,Normal,No,No,No,No,No,Yes,No,No,No,No,No,No,Arthritis
+1918,Cat,10,British Shorthair,No,3,Yes,Normal,Normal,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1919,Dog,9,Poodle,No,24,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Skin Allergies
+1920,Dog,3,Poodle,No,10,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1921,Dog,14,Beagle,No,19,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1922,Dog,12,Poodle,No,42,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1923,Cat,8,Domestic Shorthair,No,4,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Upper Respiratory Infection
+1924,Cat,12,Domestic Shorthair,Yes,4,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1925,Cat,20,Domestic Shorthair,No,6,Yes,Mild,Decreased,Increased,No,No,No,No,Yes,No,No,No,No,No,No,No,CKD
+1926,Dog,12,Golden Retriever,No,14,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1927,Dog,11,Mixed Breed,No,32,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1928,Dog,1,Beagle,Yes,35,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1929,Cat,13,Maine Coon,No,3,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1930,Dog,4,Poodle,No,12,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1931,Cat,11,Ragdoll,Yes,5,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1932,Cat,7,British Shorthair,No,7,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1933,Cat,6,Sphynx,No,5,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1934,Cat,15,Domestic Shorthair,No,4,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Hairball
+1935,Cat,6,Maine Coon,No,5,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,FLUTD
+1936,Dog,1,Labrador Retriever,Yes,17,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1937,Dog,4,Beagle,Yes,15,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1938,Cat,5,Domestic Longhair,Yes,6,Yes,Normal,Decreased,Normal,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1939,Dog,1,German Shepherd,Yes,11,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1940,Dog,13,Boxer,No,19,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hip Dysplasia
+1941,Dog,6,Golden Retriever,Yes,6,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1942,Cat,5,Domestic Longhair,No,5,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1943,Dog,5,Shih Tzu,No,5,Yes,Normal,Normal,Normal,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Ear Infection
+1944,Dog,11,Poodle,Yes,23,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1945,Dog,2,Golden Retriever,No,41,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1946,Cat,13,Siamese,No,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1947,Dog,5,Poodle,No,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1948,Cat,14,Siamese,No,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1949,Cat,8,Domestic Shorthair,No,6,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1950,Cat,7,Sphynx,No,4,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1951,Dog,5,Shih Tzu,Yes,21,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1952,Dog,6,Rottweiler,No,29,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1953,Dog,1,Poodle,No,41,No,Normal,None,Normal,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1954,Cat,3,Domestic Longhair,Yes,7,Yes,Normal,Normal,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1955,Cat,6,Sphynx,No,5,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1956,Cat,8,Maine Coon,No,3,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1957,Dog,2,German Shepherd,Yes,25,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1958,Dog,11,Boxer,Yes,9,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1959,Dog,10,Mixed Breed,Yes,16,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1960,Cat,8,Ragdoll,No,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1961,Cat,6,Bengal,No,6,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1962,Cat,7,Sphynx,No,5,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1963,Dog,11,Boxer,No,37,No,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1964,Cat,13,Maine Coon,No,4,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+1965,Cat,19,Siamese,Yes,7,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1966,Dog,17,German Shepherd,Yes,39,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1967,Dog,10,Poodle,No,34,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1968,Dog,16,Rottweiler,Yes,36,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1969,Dog,12,Poodle,No,36,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1970,Dog,7,Golden Retriever,Yes,42,Yes,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+1971,Dog,7,French Bulldog,No,35,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1972,Cat,17,Persian,No,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1973,Cat,8,British Shorthair,No,4,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1974,Dog,12,Boxer,Yes,36,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1975,Cat,8,Domestic Shorthair,Yes,3,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1976,Dog,2,Boxer,No,37,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+1977,Dog,4,Beagle,No,41,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+1978,Cat,1,British Shorthair,Yes,3,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1979,Dog,17,German Shepherd,Yes,9,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Arthritis
+1980,Cat,7,British Shorthair,Yes,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1981,Cat,6,Domestic Shorthair,No,5,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1982,Dog,1,Shih Tzu,No,28,No,Severe,None,Normal,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1983,Cat,1,Siamese,Yes,4,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Upper Respiratory Infection
+1984,Cat,9,Maine Coon,No,3,Yes,Mild,Decreased,Increased,No,No,No,No,No,No,No,No,No,No,No,Yes,CKD
+1985,Dog,20,French Bulldog,No,34,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+1986,Dog,1,French Bulldog,Yes,23,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Parvovirus
+1987,Dog,4,German Shepherd,No,12,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+1988,Dog,15,Boxer,No,22,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Kennel Cough
+1989,Cat,10,Ragdoll,No,3,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+1990,Dog,7,Boxer,Yes,37,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Ear Infection
+1991,Cat,2,Sphynx,Yes,6,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
+1992,Cat,9,Maine Coon,Yes,6,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+1993,Dog,14,Mixed Breed,Yes,10,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+1994,Cat,3,Sphynx,Yes,3,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1995,Dog,1,Golden Retriever,No,26,No,Severe,None,Normal,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+1996,Dog,7,Boxer,No,39,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hip Dysplasia
+1997,Cat,2,British Shorthair,Yes,5,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+1998,Cat,12,Siamese,No,5,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,Yes,No,No,No,Upper Respiratory Infection
+1999,Dog,18,Mixed Breed,Yes,30,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+2000,Cat,7,Siamese,Yes,3,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+2001,Dog,4,Shih Tzu,No,11,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Skin Allergies
+2002,Cat,13,Sphynx,Yes,4,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+2003,Dog,4,Shih Tzu,Yes,32,No,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Kennel Cough
+2004,Dog,2,Golden Retriever,No,15,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+2005,Dog,8,German Shepherd,Yes,43,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+2006,Cat,4,Domestic Longhair,Yes,5,No,Normal,Decreased,Normal,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Gastritis
+2007,Cat,2,Ragdoll,No,3,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+2008,Cat,1,Domestic Longhair,Yes,7,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,No,Yes,No,No,No,Upper Respiratory Infection
+2009,Dog,17,French Bulldog,Yes,27,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Healthy
+2010,Dog,7,Beagle,Yes,6,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Arthritis
+2011,Dog,14,Poodle,Yes,10,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+2012,Dog,13,Rottweiler,Yes,43,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+2013,Dog,3,Beagle,No,24,Yes,Mild,Normal,Normal,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Kennel Cough
+2014,Dog,5,Rottweiler,No,6,No,Normal,Normal,Normal,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Dietary Indiscretion
+2015,Cat,6,Bengal,Yes,3,Yes,Normal,Normal,Normal,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,FLUTD
+2016,Dog,1,Beagle,No,42,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+2017,Dog,7,Labrador Retriever,Yes,28,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,Yes,No,No,Ear Infection
+2018,Dog,5,Golden Retriever,Yes,13,Yes,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Hip Dysplasia
+2019,Dog,15,Rottweiler,No,30,No,Normal,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,No,Hip Dysplasia
+2020,Dog,1,Rottweiler,No,32,No,Severe,None,Normal,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Parvovirus
+2021,Dog,6,Poodle,No,28,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+2022,Cat,3,Sphynx,Yes,7,Yes,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Hairball
+2023,Dog,14,Rottweiler,Yes,21,No,Normal,Decreased,Normal,Yes,No,No,No,No,No,No,No,No,No,No,No,Gastritis
+2024,Dog,10,German Shepherd,No,35,Yes,Mild,Normal,Normal,No,No,No,No,No,No,No,No,No,No,No,Yes,Arthritis
+2025,Cat,13,Maine Coon,Yes,5,Yes,Normal,Decreased,Normal,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Upper Respiratory Infection
